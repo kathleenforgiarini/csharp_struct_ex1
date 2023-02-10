@@ -1,0 +1,8 @@
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 3 - 17012023\lab3_struct\bin\Debug\lab3_struct.exe.config
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 3 - 17012023\lab3_struct\bin\Debug\lab3_struct.exe
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 3 - 17012023\lab3_struct\bin\Debug\lab3_struct.pdb
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 3 - 17012023\lab3_struct\obj\Debug\lab3_struct.csproj.AssemblyReference.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 3 - 17012023\lab3_struct\obj\Debug\lab3_struct.csproj.SuggestedBindingRedirects.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 3 - 17012023\lab3_struct\obj\Debug\lab3_struct.csproj.CoreCompileInputs.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 3 - 17012023\lab3_struct\obj\Debug\lab3_struct.exe
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 3 - 17012023\lab3_struct\obj\Debug\lab3_struct.pdb
